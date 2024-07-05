@@ -1,7 +1,5 @@
 # Rebecca Dalton
-- Interests: Game Dev, 
-- I’m currently learning ...
-- I’m looking to collaborate on ...
+- Interests: Game Dev
 - Email: rebecca.dalton1124@gmail.com
 - Pronouns: she/her
 
